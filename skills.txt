@@ -1,0 +1,16 @@
+Инструменты:
+Jira
+Confluence
+TM4J
+TestRail
+Figma
+Postman
+Soap UI
+Charles
+Devtools
+BrowserStack
+SQL
+GIT
+Bash
+
+
